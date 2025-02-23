@@ -54,7 +54,7 @@ import cox3 from './assets/img/Travels/cox.jpg'
 import sit1 from './assets/img/Travels/sit 3.jpg'
 import sit2 from './assets/img/Travels/sit 2.jpg'
 import sit3 from './assets/img/Travels/sit 1.jpg'
-// import ban1 from './assets/img/Travels/ban 5.jpg'
+
 
 // skills images
 import SkillImg1 from './assets/img/skills/c.png';
