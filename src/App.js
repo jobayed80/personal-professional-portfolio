@@ -18,9 +18,6 @@ import Banner from './components/banner/Banner';
 import Gallery from './components/Gallery';
 import Travelers from './components/Travels/Travelers';
 
-
-// import components
-
 const App = () => {
 
   useEffect(() => {
@@ -33,12 +30,9 @@ const App = () => {
     <div className='overflow-x-hidden'>
       
         <Header></Header>
-        {/* <Banner></Banner> */}
-        <Hero></Hero>
+       <Hero></Hero>
         <Skills></Skills>
-        {/* <Bands></Bands> */}
         <About></About>
-       
         <Portfolio></Portfolio>  
         <Services></Services>
         <Testimonials></Testimonials>
@@ -46,7 +40,7 @@ const App = () => {
         <Contact></Contact>
         <Footer></Footer>
         <BackToTopBtn></BackToTopBtn>
-        {/* <div style={{height:"2000px"}}></div> */}
+  
     </div>
   );
 };
